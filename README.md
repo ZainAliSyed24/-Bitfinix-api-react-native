@@ -45,7 +45,6 @@ for run on an android device/simulator :
 
 React Native, TypeScript, React Query.
 
-https://user-images.githubusercontent.com/55507840/144226297-86265663-a419-4dd8-81fb-616efb76f0cd.jpeg
 
 ## Authors
 
@@ -53,3 +52,4 @@ https://user-images.githubusercontent.com/55507840/144226297-86265663-a419-4dd8-
 
 
 ```
+![Screenshot_1638289313](https://user-images.githubusercontent.com/24393023/144297290-54b1c557-fc47-4c68-bc2e-7fa43ff32be8.png)
